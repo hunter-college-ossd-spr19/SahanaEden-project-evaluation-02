@@ -34,28 +34,28 @@ There were 142 commits the past 12 weeks.
 <br><br><br><br>
 
 5. How many issues are currently open?
-<br><br><br><br>
+<br>There are 25 issues currently open<br><br><br>
 
 6. How long do issues stay open?
 Take the twenty most recently closed issues and look at when each was first reported. 
 Compute the number of days that each was open and take the average.
-<br><br><br><br>
+<br>Around 2-3 days<br><br><br>
 
 7. Is there active discussion on the issues?
-<br><br><br><br>
+<br>Yes<br><br><br>
 
 8. Are issues tagged as easy, hard, etc.?
-<br><br><br><br>
+<br>They are more specific on what type of issue ex - Bug, Minor, Major, etc. <br><br><br>
 
 
 9. Are they triaged?
 <br><br><br><br>
 
 10. How many issues were closed in the past six months?
-<br><br><br><br> 
+<br>2 issues<br><br><br> 
 
 11. How many open pull requests are there? 
-<br><br><br><br>
+<br>66 open pull requests<br><br><br>
 
 12. How long are pull requests remaining un-answered?
 Look at the closed pull requests to see how long they stayed open. Take the twenty most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.
@@ -63,14 +63,14 @@ Look at the closed pull requests to see how long they stayed open. Take the twen
 
 13. Is there active discussion on the pull requests?
 Use the same method as you did for the issues.
-<br><br><br><br>
+<br>Yes<br><br><br>
 
 14. How many pull requests were opened within the past month?
-<br><br><br><br>
+<br>0<br><br><br>
 
 
 15. How recently were any pull requests accepted and merged? 
-<br><br><br><br>
+<br>Nov. 1,2018<br><br><br>
 
 ### Summary
 
