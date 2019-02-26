@@ -49,6 +49,7 @@ Compute the number of days that each was open and take the average.
 
 
 9. Are they triaged?
+They are triaged.
 <br><br><br><br>
 
 10. How many issues were closed in the past six months?
@@ -59,6 +60,32 @@ Compute the number of days that each was open and take the average.
 
 12. How long are pull requests remaining un-answered?
 Look at the closed pull requests to see how long they stayed open. Take the twenty most recently closed ones and look at when each was first reported. Compute the number of days that each was open and take the average.
+```
+id,openfor
+1,1
+2,0
+3,28
+4,4
+5,1
+6,1
+7,0
+8,2
+9,1
+10,1
+11,1
+12,0
+13,0
+14,1
+15,1
+16,1
+17,30
+18,0
+19,12
+20,7
+```
+```
+AVG: 4.8 days open
+```
 <br><br><br><br>
 
 13. Is there active discussion on the pull requests?
@@ -73,4 +100,4 @@ Use the same method as you did for the issues.
 <br>Nov. 1,2018<br><br><br>
 
 ### Summary
-
+This seems like a friendly community and a pretty easy project to contribue to. Easy because there is lots of open issues, and because pull requests are closed frequently. Also there isnt tons of people wanting to contribute (there have only been 66 pull requests and in the past 20 a lot were from 3-4 years ago). So with all that in mind this is a simple project to contribute to. 
